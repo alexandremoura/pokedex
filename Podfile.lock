@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (5.4.1)
+  - ProgressHUD (13.4)
+  - SCLAlertView (0.8)
+  - SCPageViewController (2.0.14):
+    - SCScrollView (~> 1.1)
+  - SCScrollView (1.1.8)
+  - UrlImageView (1.0.1):
+    - YYWebImage
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+
+DEPENDENCIES:
+  - Alamofire
+  - ProgressHUD
+  - SCLAlertView
+  - SCPageViewController
+  - UrlImageView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ProgressHUD
+    - SCLAlertView
+    - SCPageViewController
+    - SCScrollView
+    - UrlImageView
+    - YYCache
+    - YYImage
+    - YYWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  ProgressHUD: 137a7fc677487c5581668f4490563124fb35c232
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SCPageViewController: ff209fcaf544daeffe03db6dd41ee6603f7e2dd0
+  SCScrollView: 247186f377f0b3b8eb4c0a96a2c742b322414f9f
+  UrlImageView: 8ad867e6536799a6b51f310e30bbdc3c76e8d127
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+
+PODFILE CHECKSUM: 8794f6c1fd7ca3c985f0a3155c94b3db25e353c5
+
+COCOAPODS: 1.10.0
