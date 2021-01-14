@@ -10,5 +10,7 @@ This app was developed using MVC design pattern to solve a challenge proposed to
 
 4. Tha Unit Test is used to check the first call on fetch pokemons return 50 items and a UITest check if, after tap on first table cell, next screen displays an imageView and a table cell with label content equals "bulbasaur"
 
-5. The Pokeapi wrapper could be used to make it faster, but, what would be fun?
+5. How to use: After download the code, type `pod intall` in terminal at the projet directory. Then open the Pokemon.xcworkspace.
+
+6. The Pokeapi wrapper could be used to make it faster, but, what would be fun?
 
